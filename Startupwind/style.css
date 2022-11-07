@@ -1,0 +1,368 @@
+
+
+.nav-link:hover{
+color: aqua;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.nav-link active :hover{
+color: aquamarine;
+}
+.not {
+    background-color: rgb(185, 227, 253);
+    text-align: center;
+    padding-left: 20px;
+    font-size: 18px;
+    padding: 0.5rem 1rem;
+
+}
+
+.span button {
+    background: red;
+}
+
+.form-control-fl{
+    background-image: url(/images/account-box.png);
+    background-repeat: no-repeat;
+    width: 375px;
+    height: 48px;
+    border-radius: 10px;
+    font: 20px GothamRounded-Light;
+    outline: none;
+    box-shadow: none;
+    color: #4a4a4a;
+    padding: 0 58px;
+    border: solid 1px #789;
+    background-size: 20px;
+    background-position: 20px;
+}
+.form-control-email{
+    background-image: url(/images/email.png);
+    background-repeat: no-repeat;
+    width: 375px;
+    height: 48px;
+    border-radius: 10px;
+    font: 20px GothamRounded-Light;
+    outline: none;
+    box-shadow: none;
+    color: #4a4a4a;
+    padding: 0 58px;
+    border: solid 1px #789;
+    background-size: 20px;
+    background-position: 20px;
+}
+
+.heading {
+   
+    padding-left: 50px ;
+    display: inline;
+   
+ 
+}
+.input{
+  
+    padding-left: 40px;
+    
+}
+
+.para {
+   
+ padding-left: 50px;
+ font-size: 25px;
+ 
+}
+
+.button {
+    justify-content: center;
+    text-align: center;
+    
+}
+
+.Invest {
+    background-color: rgb(247, 100, 33);
+    border: none;
+    color: aliceblue;
+    padding: 1px;
+    margin: 1px;
+
+    
+}
+.button1{
+    background-color: rgb(7, 210, 246);
+    color: aliceblue;
+    border-radius: 10px;
+    padding: 3px;
+    border: none;
+}
+.button2{
+    background-color: rgba(7, 170, 246, 0.555);
+    color: aliceblue;
+    border-radius: 5px;
+    padding: 3px;
+    border: none;
+}
+.img{
+    max-width: 100%;
+    height:404px;
+    float: right;
+    padding-top: 10px;
+    padding-left: 45px;
+    display: inline;
+   
+    
+}
+.head{
+    text-align: center;
+}
+.h1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.heading1s{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #103b6b;
+}
+.b{
+    margin-left: 50px;
+    border: solid 2px #c2da74;
+    width: 300px;
+    height: 250px;
+    padding: 15px;
+}
+.c{
+    margin-left: 50px;
+    margin-left: 50px;
+    border:  3px solid rgb(127, 228, 32);
+    width: 300px;
+    height: 250px;
+    padding: 15px;
+}
+.color12{
+    margin-left: 50px;
+    margin-left: 50px;
+    border: solid 2px #c2da74;
+    width: 300px;
+    height: 250px;
+    padding: 15px;
+}
+.d{
+    margin-left: 50px;
+    
+    width: 300px;
+    height: 250px;
+    padding: 15px;
+    border: solid 3px #2cb0b0;
+    background-color: #ffffff;
+}
+
+.small{
+    
+   align-items: center;
+    display: flex;
+    padding-left: 380px;
+   
+    
+}
+.colam1{
+    align-items: center;
+    display: flex;
+    padding-left: 120px;
+}
+.icon{
+    
+    margin-left: 225px;
+    
+}
+
+.footer{
+ display: flex;
+width: 100%;
+background-color: rgba(16,59,107,0.9) ;
+gap: 150px;
+padding-top: 45px ;
+padding-left: 350px;
+}
+
+.y{
+  margin-right: 90px;
+}
+.m{
+    text-decoration: none;
+    color: aqua;
+}
+#img1{
+ 
+ position: relative;
+}
+.z{
+    background-image: url(/images/landing-banner.jpg);
+    padding-left: 50px;
+    height: 600px;
+    background-size: 100% 100%;
+    
+}
+#button2{
+color: aliceblue;
+background-color: aqua;
+border: none;
+width: 150px;
+height: 30px
+}
+.x{
+  
+    display: flex;
+    gap: 50px;
+    padding: 10px;
+    padding-left: 230px;
+}
+
+
+#button3{
+height: 60px;
+width: 160px;
+}
+#button4{
+    height: 50px;
+    width: 55px;
+}
+.l{
+    padding-left: 220px;
+}
+.o{
+
+    width: 31%;
+    display: inline-block;
+    padding: 20px 26px;
+    background-color: #fff;
+    max-width: 380px;
+    margin: 26px 8px;
+}
+#button5{
+    margin: 15px -10px;
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+    border-radius: 25px;
+    
+    
+}
+.v{
+    display: inline-block;
+    padding-left: 0px;
+    padding-bottom: 0px;
+   
+}
+.g{
+    text-align: left;
+    color: #103b6b;
+    font: 25px GothamRounded-Light;
+    font-weight: bold;
+}
+
+#j{
+    height: 50px;
+    width: 200px;
+}
+.text-color{
+    color: azure;
+}
+.text-color1{
+    color:#2fc0d7;
+}
+.text-fond1{
+    font: 16px;
+    font-style: italic;
+
+}
+#p1img{
+    
+    margin: 0px;
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    padding: 0px;
+    border-radius: 25px;
+    margin-bottom: -5rem;
+    padding-left: 0px;
+}
+.name{
+    font: 20px GothamRounded-medium;
+    color: #000000;
+    margin-bottom: 4px;
+    padding-left: 80px;
+  font-weight: bolder;
+}
+.invester{
+    font: 14px GothamRounded-medium;
+    color: #000;
+    font-style: normal;
+    font-family: GothamRounded-Book;
+    padding-left: 80px;
+}
+.text-p{
+    padding-left: 65px;
+    margin-top: -55px;
+    margin-bottom: 2rem;
+}
+.btn.create-account-btn {
+       border: solid 1.5px #2fc0d7;
+    background-color: #fff;
+    color: #2fc0d7;
+    font: 18px GothamRounded-Book;
+    text-align: center;
+    padding: 10px 41px 13px 42px;
+    width: 215px;
+    height: 45px;
+    flex-grow: 0;
+    border-radius: 5px;
+}
+.btn.create-account-btn.btn.btn-primary{
+    
+    background-image: linear-gradient(103deg, #31d4c7, #2fc0d7 100%);
+    color: #fff;
+    font: 18px GothamRounded-Book;
+    text-align: center;
+    padding: 10px 41px 13px 42px;
+    width: 215px;
+    height: 45px;
+    flex-grow: 0;
+    border-radius: 5px;
+}
+.engine{
+    height: 30px;
+    margin: 5px 0px;
+}
+.btn1{
+    display: inline-block;
+    font-family: 'GothamRounded-medium';
+    color: #fff;
+    background: #2fc0d7;
+    border-radius: 5px;
+    border: solid 1px #2fc0d7;
+}
+.Solution{
+    font-size: 16px;
+    margin: 25px 0px 10px 0px;
+    color: #778899;
+}
+
+.carousel-item.active{
+    display: block;
+}
+.screen.text-left{
+    width: 31%;
+    display: inline-block;
+    padding: 20px 26px;
+    background-color: #fff;
+    max-width: 380px;
+    margin: 26px 8px;
+}
+.row.arizona-info{
+    height: 70px;
+}
+.xyz{
+    margin: 15px -10px;
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+}
